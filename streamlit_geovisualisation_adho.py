@@ -4,6 +4,7 @@ import pandas as pd
 import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
+import random
 
 #IMPORT FICHIER CONTACTS
 df = pd.read_csv("Fichier_contacts_geocode.csv", sep=';')
