@@ -62,10 +62,12 @@ base_map = folium.FeatureGroup(name='Basemap', overlay=True, control=False)
 folium.TileLayer().add_to(base_map)
 base_map.add_to(carte_personnes)
 
+dico_nb_tags = {}
 def points_tag(tag):
     r = lambda: random.randint(0,255)
     couleur_choisie ='#%02X%02X%02X' % (r(),r(),r())
     df_points = df[df[tag]=='Oui'] 
+    dico_nb_tags[tag] = df_points.shape[0]
     groupes = MarkerCluster()
     for i in range(df_points.shape[0]):
         message = "<strong>" + df_points['first_name'].iloc[i] + ' ' + df_points['last_name'].iloc[i] + "</strong>"
@@ -87,4 +89,4 @@ for tag in liste_tags:
 folium_static(carte_personnes) 
 
 for tag in liste_tags:
-    st.write(tag, ':', 7)
+    st.write(tag, ':', dico_nb_tags[tag])
