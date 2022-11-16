@@ -1,0 +1,201 @@
+first_name;last_name;email;address;postal_code;city;IntérêtDéfense;IntérêtÉconomie;IntérêtÉducation;IntérêtGéopolitique;CentreIntérêtLaCouture;CentreIntérêtLeVélo;CentreIntérêtLaCuisine;CentreIntérêtLesVoyages;CentreIntérêtRien;donateur10;donateur20;donateur50;donateur100;PetitionSauvezWilly;PetitionSouleverDesMontagne;PetitionVieDureSansConfiture;MeetingGrandMeetingDeLaRentree2022;MeetingLesRencontresMensuelles;MeetingManifestationContreLeauFroide;MeetingManifestationContreLeFeu;Latitude;Longitude
+Astrid;Pinto;uperrier@guyot.com;900 RTE DE PARIS;01440;VIRIAT;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;46.222647;5.208387
+Philippe;Duval;bertrand.dupuy@club-internet.fr;1 AV MICHEL DE L HOSPITAL;02100;SAINT-QUENTIN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;49.862154;3.269781
+Marc;Bazin;margot37@gmail.com;30  VOIE ROMAINE;06000;NICE;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;43.723639;7.281693
+Émile;Techer;moreau.victor@jourdan.fr;28 AV VALROSE;06100;NICE;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;43.718242;7.266778
+Sophie;Mahe;lamy.michele@gros.net;5 ALL DES GABIANS;06150;CANNES;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;43.541852;6.95659
+Lorraine;Toussaint;paulette.denis@martinez.fr;147 BD DU MERCANTOUR;06200;NICE;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.67538;7.19965
+Caroline;Delmas;marc.monnier@wanadoo.fr;0 RTE ST ANTOINE DE GINESTIERE;06200;NICE;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.699219;7.223647
+Laure;Ledoux;smerle@noos.fr;5 RUE DE L HOTEL DE VILLE;06300;NICE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;43.696197;7.271743
+Thibaut;Thomas;mberthelot@noos.fr;0 PL DE L HOTEL DE VILLE;06400;CANNES;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.556707;6.966771
+Denis;Vallet;bouvier.anais@laposte.net;15 AV DES BROUSSAILLES;06400;CANNES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;43.562818;7.005294
+William;Briand;sthierry@noos.fr;485  PIN MONTARD;06410;BIOT;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.62175;7.061943
+Nathalie;Guillon;guyon.marcel@lejeune.fr;0 CRS MASSENA;06600;ANTIBES;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;43.580746;7.127431
+Thérèse;Gregoire;peltier.guy@hotmail.fr;45 AV DE MANCHESTER;08000;CHARLEVILLE-MEZIERES;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;49.761686;4.695118
+Daniel;Rousset;michelle.gallet@lagarde.fr;101 AV ANATOLE FRANCE;10000;TROYES;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;48.279897;4.068811
+Margaud;Germain;christophe59@live.com;27 PL JULES GUESDE;13002;MARSEILLE 2;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;43.302103;5.374144
+Bertrand;Thomas;cohen.susanne@club-internet.fr;4 BD J. SAADE - QUAI D'ARENC;13002;MARSEILLE 2;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;43.312654;5.366846
+Emmanuel;Giraud;victoire.georges@hotmail.fr;0 AV DES TAMARIS;13100;AIX-EN-PROVENCE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;43.535516;5.441265
+Isaac;David;aubry.francois@dbmail.com;0 PL DE L HOTEL DE VILLE;13100;AIX-EN-PROVENCE;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.529931;5.447869
+Inès;Henry;michel.tanguy@martins.fr;0  ;13115;SAINT-PAUL-LES-DURANCE;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.691553;5.724929
+Dominique;Guillon;lebreton.gabrielle@fleury.com;0  ZONE INDUSTRIELLE;13270;FOS-SUR-MER;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Oui;Non;Non;Non;43.480884;4.925867
+Adrien;Clerc;berger.augustin@leclercq.org;0 AV LOUIS SAMMUT;13500;MARTIGUES;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;43.426627;5.045047
+Roger;Couturier;vallet.isabelle@tele2.fr;0  AEROPORT MARSEILLE PROVENCE;13700;MARIGNANE;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.28687;5.367462
+Inès;Andre;thierry.antoine@andre.net;0 AV COQ;13790;ROUSSET;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.47498;5.597456
+André;Boyer;vcarlier@girard.fr;0 PL REINE MATHILDE;14000;CAEN;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;49.186606;-0.353634
+Victoire;Vallee;perez.christine@hotmail.fr;16 RUE ROSA PARKS;14000;CAEN;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;49.178678;-0.348452
+Sophie;Ruiz;benoit03@gillet.fr;0 AV DE LA COTE DE NACRE;14000;CAEN;Oui;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;49.201303;-0.360873
+Inès;Nguyen;letellier.marc@blanc.com;0 RPT DE GIRAC;16470;SAINT-MICHEL;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.634279;0.121481
+Inès;Mahe;dumont.arthur@evrard.org;0 RUE DU DOCTEUR SCHWEITZER;17000;LA ROCHELLE;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;46.158449;-1.144872
+Paulette;Renard;lcharrier@laposte.net;22 CRS GRANDVAL;20000;AJACCIO;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;41.91793;8.73236
+Camille;Breton;chevalier.paul@andre.fr;0  FALCONAJA;20600;BASTIA;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;42.681055;9.435406
+Laurence;Masson;nicole.delannoy@lemonnier.net;17 BD DE LA TREMOUILLE;21000;DIJON;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;47.325954;5.042019
+Yves;Bertin;besnard.andre@orange.fr;0 PL DE LA LIBERATION;21000;DIJON;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.321147;5.041309
+Louis;Vallet;andre68@tele2.fr;53 RUE DE LA PREFECTURE;21000;DIJON;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;47.324825;5.042427
+Bertrand;Da Costa;cecile88@guillaume.org;2 BD MAL DE LATTRE DE TASSIGNY;21000;DIJON;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.320121;5.068478
+Paulette;Petit;cgosselin@dbmail.com;9 PL DU GENERAL DE GAULLE;22000;SAINT-BRIEUC;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.513961;-2.764912
+Théodore;Germain;qphilippe@huet.com;10 RUE MARCEL PROUST;22000;SAINT-BRIEUC;Oui;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;48.490442;-2.747687
+Gilles;Gosselin;mparent@pruvost.fr;13  LE PEREY - SAINT JACUT DU MENE;22330;LE MENE;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;48.280843;-2.506374
+Maryse;Marty;lemaitre.stephanie@aubry.org;7 RUE DE LA JEANNAIE;22400;LAMBALLE-ARMOR;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;48.466475;-2.539495
+Julie;Raymond;traore.francoise@club-internet.fr;2 RUE PAUL LOUIS COURIER;24000;PERIGUEUX;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;45.187249;0.725262
+Éléonore;Guerin;wgilbert@pinto.fr;80 AV GEORGES POMPIDOU;24000;PERIGUEUX;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;45.194717;0.731689
+Augustin;Gauthier;anouk44@bodin.net;4 SQ CASTAN;25000;BESANCON;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;47.234547;6.030397
+Rémy;Philippe;perrot.margaud@yahoo.fr;2 RUE MEGEVAND;25000;BESANCON;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Oui;Non;Oui;Non;Non;Non;47.236687;6.022095
+Gérard;Adam;guyon.arthur@wanadoo.fr;3 BD ALEXANDRE FLEMING;25000;BESANCON;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;47.22651;5.963925
+Marcelle;Guerin;parent.xavier@alves.fr;27 RUE DE PONTARLIER;25600;SOCHAUX;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.511067;6.837873
+Adrien;Dumas;sbaron@etienne.com;26 AV PRESIDENT HERRIOT;26000;VALENCE;Non;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;44.935235;4.894667
+Victor;Vaillant;suzanne.giraud@robert.fr;179 BD MARECHAL JUIN;26000;VALENCE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;44.912106;4.906915
+Martin;Riou;barthelemy.maryse@gmail.com;0 CITE ATOMIQUE;26700;PIERRELATTE;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;44.346888;4.69283
+Marie;Fleury;mlombard@raymond.com;0  VOIE DE L INSTITUT;27100;VAL-DE-REUIL;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;49.237499;1.168675
+Hortense;Pierre;sleclercq@gilbert.fr;32 BD DUPLEIX;29000;QUIMPER;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.994686;-4.101425
+Étienne;Rodriguez;ines.fournier@guyon.fr;14 AV YVES THEPOT;29000;QUIMPER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;47.987738;-4.095004
+Patricia;Duval;radam@sfr.fr;0 BD TANGUY PRIGENT;29200;BREST;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.397732;-4.483254
+Maggie;Marchal;shernandez@dbmail.com;24 RUE COAT AR GUEVEN;29200;BREST;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;48.393709;-4.483055
+Jules;Laine;dupont.benjamin@hotmail.fr;0  ARSENAL;29200;BREST;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;48.383861;-4.516098
+Colette;Leveque;hernandez.jules@valette.fr;15 RUE DE KERSAINT GILLY;29600;MORLAIX;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;48.569881;-3.830611
+William;Weber;michel95@leveque.com;0 PL DE L HOTEL DE VILLE;30000;NIMES;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;43.836344;4.359711
+Émile;Fouquet;jean.maillard@gmail.com;0 RUE GUILLEMETTE;30000;NIMES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;43.831652;4.363338
+Xavier;Mercier;begue.penelope@masson.net;0 PL DU PROFESSEUR ROBERT DEBRE;30900;NIMES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;43.824278;4.325287
+Thibaut;Charrier;xgilbert@tele2.fr;1 BD DE LA MARQUETTE;31000;TOULOUSE;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;43.615663;1.436756
+Lorraine;Vasseur;thierry.poirier@sauvage.fr;6 RUE RENE LEDUC;31500;TOULOUSE;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;43.611189;1.456189
+Marthe;Bernard;jean.edouard@imbert.com;1 RPT MAURICE BELLONTE;31700;BLAGNAC;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.626783;1.385495
+Édouard;Legrand;aurelie80@sfr.fr;2 RPT EMILE DEWOITINE;31700;BLAGNAC;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;43.625142;1.382138
+Denis;Etienne;sabine.aubry@live.com;4 AV DIDIER DAURAT;31700;BLAGNAC;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;43.62658;1.38171
+Gilles;Letellier;joseph.poirier@club-internet.fr;12 BD ANTOINE GAUTIER;33000;BORDEAUX;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;44.832927;-0.598219
+Camille;Benard;theophile02@gmail.com;112 RUE DE LA MARNE;33500;LIBOURNE;Non;Non;Oui;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;44.919156;-0.229792
+Gabrielle;Delahaye;martin.bonneau@regnier.com;0 AV DE MAGELLAN;33600;PESSAC;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;44.783404;-0.663518
+Camille;Teixeira;gilles.collet@sfr.fr;201 AV DE LA POMPIGNANE;34000;MONTPELLIER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;43.606665;3.898276
+Hélène;Dijoux;hugues85@noos.fr;50 PL ZEUS;34000;MONTPELLIER;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Oui;Non;Non;43.6078;3.890743
+Benjamin;Denis;jacqueline48@orange.fr;1 PL GEORGES FRECHE;34070;MONTPELLIER;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;43.598842;3.896549
+Richard;Deschamps;adelaide68@allard.fr;1977 AV DES MOULINS;34080;MONTPELLIER;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.62333;3.836766
+Jeanne;Chretien;william97@barre.org;1919 RTE DE MENDE;34090;MONTPELLIER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;43.638598;3.865482
+Suzanne;Collet;nmoulin@guichard.com;371 AV DU DOYEN GASTON GIRAUD;34090;MONTPELLIER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;43.633401;3.850049
+Astrid;Chevallier;olivier31@pasquier.com;191 AV DU DOYEN GASTON GIRAUD;34090;MONTPELLIER;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;43.633346;3.850395
+Antoine;Bouvier;martin.constance@laposte.net;2 RUE VALENTIN HAUY;34500;BEZIERS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;43.339674;3.254307
+Pénélope;Gomez;slambert@remy.fr;480 AV ST SAUVEUR DU PIN;34980;SAINT-CLEMENT-DE-RIVIERE;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;43.710931;3.833339
+Jacques;Herve;iparent@barre.org;0 PL DE LA MAIRIE;35000;RENNES;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.110964;-1.679255
+Célina;Carre;anastasie.hoarau@guichard.net;1 AV DE LA PREFECTURE;35000;RENNES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;48.127132;-1.693496
+Alphonse;Klein;eandre@ferrand.net;2 RUE HENRI LE GUILLOUX;35000;RENNES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;48.118518;-1.692634
+Nath;Huet;helene83@hotmail.fr;0  LA JANAIS;35131;CHARTRES-DE-BRETAGNE;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;48.054999;-1.705481
+Isabelle;Garnier;margaud.riou@meunier.com;1 RUE DE LA MARNE;35400;SAINT-MALO;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;48.634111;-2.008021
+Adélaïde;Courtois;georges28@laposte.net;283 AV GENERAL GEORGE S PATTON;35700;RENNES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;48.134736;-1.660295
+Gérard;Moulin;odette.moulin@tele2.fr;0 BD DE LA ROBIQUETTE;35760;SAINT-GREGOIRE;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;48.133385;-1.692826
+Henriette;Aubert;marc68@lambert.org;1 RUE DES MINIMES;37000;TOURS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;47.391146;0.688823
+Michelle;Delorme;blondel.yves@yahoo.fr;0 PL DE LA PREFECTURE;37000;TOURS;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;47.39307;0.690695
+Frédérique;Maurice;marthe17@clement.com;2 BD TONNELLE;37000;TOURS;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;47.387822;0.667133
+Hortense;Merle;marcelle.peltier@free.fr;0 AV DE LA REPUBLIQUE;37170;CHAMBRAY-LES-TOURS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;47.343665;0.715539
+Benoît;Rodrigues;pmaury@chevallier.fr;25 AV DES MARTYRS;38000;GRENOBLE;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;45.204174;5.701612
+Océane;Vaillant;perrier.veronique@normand.fr;11 BD JEAN PAIN;38000;GRENOBLE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;45.186782;5.736165
+Robert;Lefort;faure.christelle@hotmail.fr;7 RUE FANTIN LATOUR;38000;GRENOBLE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;45.186824;5.732739
+Suzanne;Nicolas;luc81@traore.com;17 AV DES MARTYRS;38000;GRENOBLE;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;45.20085;5.705959
+Michelle;Brunel;henriette.guillaume@brun.fr;27 RUE ANATOLE FRANCE;38100;GRENOBLE;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;45.172281;5.707809
+Dorothée;Pruvost;diane.langlois@didier.fr;621 AV CENTRALE;38400;SAINT MARTIN D'HERES;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;45.191778;5.767253
+Colette;Benoit;marthe.fernandez@jacquot.org;0 BD DE LA CHANTOURNE;38700;LA TRONCHE;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.196799;5.750745
+Xavier;Julien;lebon.vincent@free.fr;850 RUE JEAN MONNET;38920;CROLLES;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;45.267107;5.884495
+Pénélope;Ramos;amelie07@bertrand.net;0 AV PIERRE DE COUBERTIN;40000;MONT-DE-MARSAN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;43.895012;-0.489869
+Martin;Denis;rousseau.margaux@ferrand.fr;0  MAIL PIERRE CHARLOT;41000;BLOIS;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;47.600213;1.341658
+Adèle;Riviere;cecile.nicolas@hardy.com;0 PL HOTEL DE VILLE;42000;SAINT-ETIENNE;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;45.438977;4.38759
+Guillaume;Dupuis;olivie.prevost@delahaye.fr;0 AV ALBERT RAIMOND;42270;SAINT-PRIEST-EN-JAREZ;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;45.475149;4.369161
+Roger;Gallet;denis.gaillard@normand.net;28 RUE DE CHARLIEU;42300;ROANNE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;46.043058;4.078075
+Olivie;Sanchez;wpires@chevallier.fr;1 PL ALEXIS RICORDEAU;44000;NANTES;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.211977;-1.554098
+Arnaude;Herve;margaux.couturier@bousquet.fr;3 RUE BELLIER;44000;NANTES;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;47.221906;-1.524807
+Stéphane;Chauvin;grenier.julie@hotmail.fr;0 RUE DE L AVIATION;44340;BOUGUENAIS;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.162129;-1.586003
+Philippe;Peltier;rossi.thierry@mace.fr;0  ZAC DE CADREAN;44550;MONTOIR-DE-BRETAGNE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;47.319163;-2.154754
+Lucas;Camus;marguerite12@noos.fr;11 BD GEORGES CHARPAK;44600;SAINT-NAZAIRE;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.266918;-2.255893
+Zacharie;Da Costa;besson.roger@orange.fr;0 AV ANTOINE BOURDELLE;44600;SAINT-NAZAIRE;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.289561;-2.192472
+Jules;Monnier;zmartin@gauthier.fr;0 BD PROFESSEUR JACQUES MONOD;44800;SAINT-HERBLAIN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;47.221074;-1.609355
+Margaret;Godard;antoinette.leduc@legoff.com;1 PL DE L ETAPE;45000;ORLEANS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;47.903203;1.908449
+Théodore;Traore;grousset@muller.fr;15 RUE EUGENE VIGNAT;45000;ORLEANS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;47.907885;1.910454
+Michelle;Toussaint;valerie.perret@remy.fr;9 RUE ST PIERRE LENTIN;45000;ORLEANS;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;47.901147;1.909558
+Bernadette;Potier;marguerite09@carre.fr;14 AV DE L HOPITAL;45100;ORLEANS;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.83647;1.923333
+Jérôme;Loiseau;edith74@pruvost.fr;185 AV DE VERDUN;45800;SAINT-JEAN-DE-BRAYE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;47.924268;1.991996
+Luc;Lemaire;nblot@lebreton.fr;0 BD RESISTANCE ET DEPORTATION;49100;ANGERS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;47.471242;-0.547583
+Denis;Vincent;lelievre.laurence@lefevre.fr;48 BD DU MARECHAL FOCH;49100;ANGERS;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.468029;-0.551264
+Gabriel;Robin;maurice.leblanc@yahoo.fr;4 RUE LARREY;49100;ANGERS;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;47.480948;-0.554426
+Dominique;Le Roux;arnaude.jean@goncalves.com;1 RUE DE MARENGO;49300;CHOLET;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;47.04196;-0.897184
+Marie;Ruiz;guillaume.pierre@dbmail.com;98  CANDOL;50000;SAINT-LO;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;49.100652;-1.117092
+Jeannine;Courtois;antoine.richard@petitjean.net;46 RUE DU VAL DE SAIRE;50100;CHERBOURG-EN-COTENTIN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;49.638538;-1.613213
+Antoine;Techer;thibault.patrick@laporte.org;0 PL BRUAT;50100;CHERBOURG-EN-COTENTIN;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;49.640615;-1.624229
+Éléonore;Lemonnier;jmartin@moulin.fr;0 RTE DEPARTEMENTALE  901;50440;LA HAGUE;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;49.714454;-1.919814
+Michelle;Renault;chantal26@free.fr;9 PL DE L HOTEL DE VILLE;51100;REIMS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;49.257756;4.031981
+Odette;Pineau;bonnet.michele@sauvage.fr;45 RUE COGNACQ JAY;51100;REIMS;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Oui;49.231413;4.018907
+Amélie;Leclercq;marc.camus@orange.fr;0 RUE DU GENERAL KOENIG;51100;REIMS;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;49.225764;4.020973
+Paulette;Mallet;helene.guillet@faivre.fr;29 AV MAL DE LATTRE DE TASSIGNY;54000;NANCY;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;48.68394;6.189453
+Denis;Lelievre;luce39@noos.fr;48  ESP JACQUES BAUDOT;54000;NANCY;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;48.679425;6.166753
+Mathilde;Chauvet;julien77@yahoo.fr;0 RUE DU MORVAN;54500;VANDOEUVRE-LES-NANCY;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.649142;6.155099
+Madeleine;Regnier;bernard31@renard.net;0 RUE SAINT TROPEZ;56000;VANNES;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;47.657092;-2.750242
+Adrien;Petitjean;moulin.veronique@orange.fr;20 BD GEN MAURICE GUILLAUDOT;56000;VANNES;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Oui;47.664708;-2.742398
+Louis;Lombard;hgallet@noos.fr;5 AV CHOISEUL;56100;LORIENT;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;47.752578;-3.355969
+Philippe;Tanguy;charrier.laure@regnier.com;0  LA VILLOUET;56200;LA GACILLY;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;47.777611;-2.153088
+Jérôme;Reynaud;leleu.aurore@baron.com;0 PL GABRIEL HOCQUARD;57000;METZ;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;49.12471;6.175351
+Agathe;Vallet;gcharles@blanchard.com;1 PL D ARMES;57000;METZ;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;49.125245;6.175654
+Laure;Delannoy;luce.reynaud@dumas.com;1 RUE DU PONT MOREAU;57000;METZ;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;49.122766;6.17556
+Théodore;Rossi;aroux@garcia.fr;17 AV DES TILLEULS;57190;FLORANGE;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;49.326202;6.129033
+Josette;Maillard;helene.bouvier@guillon.com;0  METROPOLE LORRAINE;57300;TREMERY;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;49.247006;6.22469
+Patricia;Chevalier;thomas98@cohen.fr;0 ALL DU CHATEAU;57530;ARS-LAQUENEXY;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;49.094245;6.276576
+Lucy;Berthelot;amelie97@gregoire.fr;1 AV PATRICK GUILLOT;58000;NEVERS;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;46.977767;3.123401
+Julien;Le Gall;tjacques@free.fr;0 PL DE VERDUN;59000;LILLE;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;50.64483;2.995144
+Clémence;Gosselin;morvan.claudine@free.fr;17  GRD PLACE;59100;ROUBAIX;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;50.695494;3.164253
+Guy;Guyot;sledoux@hotmail.fr;11 BD LACORDAIRE;59100;ROUBAIX;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;50.679056;3.172961
+Alfred;Peron;roussel.thierry@gimenez.com;0 PL CHARLES VALENTIN;59140;DUNKERQUE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;51.037803;2.377373
+Sébastien;Sauvage;blanchet.noemi@laposte.net;1 RTE DE CAMBRAI;59187;DECHY;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;50.337641;3.099371
+Thomas;Lucas;elodie45@dbmail.com;0 PL VICTOR HASSEBROUCQ;59200;TOURCOING;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;50.723463;3.160364
+Simone;Gosselin;alix.germain@daniel.com;130 AV LOUIS HERBEAUX;59240;DUNKERQUE;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;51.038136;2.395641
+Lucas;De Sousa;robert.hebert@tele2.fr;0  PARC ACTIVITES VALLEE ESCAUT;59264;ONNAING;Oui;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;50.369851;3.615413
+Henri;Louis;victoire.hardy@rey.fr;114 AV DESANDROUIN;59300;VALENCIENNES;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;50.360404;3.500886
+Laurent;Dupuis;alphonse91@live.com;8 RUE DE LA SOURCE;59320;HALLENNES-LEZ-HAUBOURDIN;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;50.60311;2.955877
+Éléonore;Goncalves;suzanne88@arnaud.net;0  CHANTIER RENAULT;59553;CUINCY;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;50.381871;3.053041
+Margot;Remy;margot.fischer@vallee.org;200 RUE DE LA RECHERCHE;59650;VILLENEUVE D'ASCQ;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;50.650013;3.150912
+Gabriel;Duhamel;iollivier@wagner.com;276 AV DE LA MARNE;59700;MARCQ-EN-BAROEUL;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;50.676023;3.109035
+Thibaut;Pires;gabriel73@live.com;3031 RUE DU COMTE JEAN;59760;GRANDE-SYNTHE;Non;Non;Non;Non;Oui;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;51.024074;2.297267
+Philippe;Gregoire;charles56@bailly.net;2 RUE JACQUEMARS GIELEE;59800;LILLE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;50.631948;3.059082
+Thérèse;Joly;alexandre.brunet@charrier.net;1 RUE DE CAMBRY;60000;BEAUVAIS;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;49.438645;2.077686
+Raymond;Barthelemy;lucy.maillard@live.com;40 AV LEON BLUM;60000;BEAUVAIS;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;49.450702;2.071931
+Alexandre;Maury;valerie.lecoq@dupont.com;8 AV HENRI ADNOT;60200;COMPIEGNE;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;49.387403;2.790397
+Marguerite;Lebon;gallet.edouard@free.fr;2 RUE DES FINETS;60600;CLERMONT;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;49.376506;2.415767
+Thierry;Laroche;charles.paul@sfr.fr;20 BD DE LA LIBERTE;62000;ARRAS;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;50.297072;2.764437
+Laure;Pruvost;aurore.guerin@club-internet.fr;0 RUE FERDINAND BUISSON;62000;ARRAS;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;50.291707;2.764172
+Dorothée;Leblanc;leblanc.matthieu@sfr.fr;57 AV WINSTON CHURCHILL;62000;ARRAS;Oui;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;50.29715;2.755035
+Zacharie;Roy;claude69@ramos.fr;1 RUE DE LA HAUTE LOGE;62136;LESTREM;Non;Oui;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;50.634043;2.675934
+Zoé;Ollivier;bouchet.jean@bertin.fr;2 RUE DE LA PORTE GAYOLE;62200;BOULOGNE-SUR-MER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;50.720463;1.615506
+Roland;Martineau;bousquet.astrid@lemaire.com;12 RUE JACQUES MONOD;62200;BOULOGNE-SUR-MER;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;50.722887;1.629461
+Nicolas;Lesage;charlotte.dupuy@carlier.com;99 RTE DE LA BASSEE;62300;LENS;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;50.439478;2.82077
+Simone;Voisin;ipayet@pascal.net;104 AV DU GENERAL DE GAULLE;62510;ARQUES;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;50.730682;2.301246
+Laurent;Laine;gay.charles@hotmail.fr;10 RUE PHILIPPE MARCOMBES;63000;CLERMONT-FERRAND;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;45.779685;3.086073
+Colette;Gilbert;lamy.antoine@yahoo.fr;58 RUE MONTALEMBERT;63000;CLERMONT-FERRAND;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;45.75868;3.09408
+Odette;Laporte;auguste.carre@guibert.com;23 PL DES CARMES DECHAUX;63000;CLERMONT-FERRAND;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;45.782245;3.094608
+Dominique;Leduc;gilbert41@free.fr;1 PL LUCIE ET RAYMOND AUBRAC;63100;CLERMONT-FERRAND;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;Non;45.784669;3.109183
+David;Martin;nicole.paris@orange.fr;0  LADOUX;63118;CEBAZAT;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;45.82899;3.103749
+Céline;Gay;andre.martin@poulain.net;4 BD HAUTERIVE;64000;PAU;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;43.326895;-0.349229
+Michelle;Dijoux;gaudin.celina@collin.fr;13 AV DE L INTERNE JACQUES LOEB;64100;BAYONNE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;Non;43.482296;-1.482313
+Pierre;Morin;julien.leon@orange.fr;0 AV JOSEPH SZYDLOWSKI;64510;BORDES;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;43.23918;-0.285762
+Éric;Noel;gilbert.sophie@gmail.com;0 PL DE LA LOGE;66000;PERPIGNAN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;42.699548;2.894465
+Constance;Normand;jacob.paulette@live.com;24 QUAI SADI CARNOT;66000;PERPIGNAN;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;42.700031;2.893436
+Maggie;Perret;brigitte33@free.fr;20 AV DU LANGUEDOC;66000;PERPIGNAN;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;42.724988;2.887655
+Pierre;Philippe;renee55@moulin.fr;4 RUE BLAISE PASCAL;67000;STRASBOURG;Non;Non;Oui;Non;Oui;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.580714;7.766568
+Pauline;Lebreton;alix66@gmail.com;1 PL ADRIEN ZELLER;67000;STRASBOURG;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;48.598792;7.760417
+Martine;Guillet;emichel@benoit.com;1 PL DE L HOPITAL;67000;STRASBOURG;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;48.577253;7.748993
+Marc;Goncalves;aimee07@sfr.fr;1  PARC DE L'ETOILE;67100;STRASBOURG;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;48.573419;7.75297
+Sébastien;Ramos;picard.marie@laposte.net;0 RUE GEORGES BESSE;67150;ERSTEIN;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;48.420586;7.633837
+Hugues;Robin;susanne41@live.com;1 AV MOLIERE;67200;STRASBOURG;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;48.592727;7.707241
+Claudine;Blanc;rhernandez@meunier.fr;95 RTE DE SAVERNE;67205;OBERHAUSBERGEN;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Oui;Non;48.606595;7.681344
+David;De Sousa;marine.menard@benard.com;3 RUE ALEXANDRE VOLTA;67450;MUNDOLSHEIM;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;48.64073;7.728756
+Honoré;Gallet;julien58@yahoo.fr;64 AV DU PROF RENE LERICHE;67500;HAGUENAU;Oui;Oui;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;48.798914;7.779346
+Alfred;Clement;lbesson@bigot.com;39 AV DE LA LIBERTE;68000;COLMAR;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.076851;7.336788
+Valentine;Bertrand;gfernandes@etienne.org;20 AV DU DOC RENE LAENNEC;68100;MULHOUSE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;47.723755;7.344444
+Lucie;Weber;emmanuelle.raymond@chauvin.com;2 RUE PIERRE ET MARIE CURIE;68200;MULHOUSE;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Non;47.749928;7.33623
+Nicole;Vincent;denise43@orange.fr;0 RTE DE CHALAMPE;68390;SAUSHEIM;Oui;Non;Non;Non;Non;Oui;Non;Non;Oui;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;47.775201;7.404124
+Tristan;Fernandez;kbarthelemy@wanadoo.fr;41 RUE ANTOINE LUMIERE;69008;LYON 8EME;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;Oui;Non;45.740136;4.867788
+Laurence;Alexandre;nathalie.roy@robin.com;2 AV ALBERT EINSTEIN;69100;VILLEURBANNE;Non;Oui;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Oui;Non;Non;Non;Non;45.780499;4.875543
+David;Boucher;anastasie.samson@dbmail.com;2 PL DU DOC LAZARE GOUJON;69100;VILLEURBANNE;Oui;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.766057;4.879589
+Gilbert;Texier;potier.martine@noos.fr;5 AV MARCEL HOUEL;69200;VENISSIEUX;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;45.696793;4.885262
+Maggie;Simon;lpaul@hotmail.fr;1541 AV MARCEL MERIEUX;69280;MARCY L'ETOILE;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.777357;4.706149
+Hortense;Leclercq;georges42@vaillant.fr;165 CHE DU GRAND REVOYET;69310;PIERRE-BENITE;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;45.703482;4.805235
+Inès;Fischer;helene77@delattre.fr;0  OUILLY;69400;GLEIZE;Non;Non;Non;Oui;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;46.000569;4.689787
+Christophe;Menard;rdevaux@boyer.org;95 BD PINEL;69500;BRON;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.742052;4.894137
+Michelle;Prevost;emarie@delmas.com;59 BD PINEL;69500;BRON;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;45.74789;4.897201
+Stéphane;Laroche;susanne81@laposte.net;99 RTE DE LYON;69800;SAINT-PRIEST;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;45.704762;4.911883
+Jean;Mercier;marechal.valerie@hotmail.fr;0 RUE DE LINGENDES;71000;MACON;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;46.307635;4.834066
+Patrick;Da Costa;zimbert@sfr.fr;4 RUE CAPITAINE DRILLIEN;71100;CHALON-SUR-SAONE;Non;Non;Non;Non;Oui;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;46.776134;4.841438
+Patricia;Arnaud;julien.franck@hardy.fr;0 PL SAINT PIERRE;72000;LE MANS;Non;Non;Non;Non;Oui;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;Non;48.007399;0.196759
+Arthur;Fouquet;vjoseph@yahoo.fr;0 PL ARISTIDE BRIAND;72000;LE MANS;Non;Non;Non;Non;Non;Oui;Non;Oui;Non;Non;Oui;Oui;Non;Non;Non;Non;Non;Non;Oui;Non;48.001912;0.19857
