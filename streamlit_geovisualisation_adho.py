@@ -52,6 +52,12 @@ if choix_menu==parties_menu[3]:
 
 
 #CARTE DES PERSONNES INDIVIDUELLES
+
+st.title(choix_menu)
+st.info("Indiquez le tag à visualiser")
+
+tag = st.selectbox("Choisissez un tag :", options = liste_categorie)
+
 carte_personnes = folium.Map(location=[47,2],zoom_start=6, tiles=None)
 
 base_map = folium.FeatureGroup(name='Basemap', overlay=True, control=False)
@@ -75,14 +81,8 @@ def points_tag(tag):
         mk = folium.CircleMarker([latitude, longitude], radius = 5, tooltip = message, 
                         color=None, fill_color =couleur_choisie, fill_opacity=1)
         groupes.add_child(mk)
-        groupes.add_to(feature_group)
-    feature_group.add_to(carte_personnes)
+        groupes.add_to(carte_personnes)
 
-for tag in liste_categorie :
-    feature_group = folium.FeatureGroup(name = tag, overlay=False)
-    points_tag(tag)
-
-
-folium.LayerControl().add_to(carte_personnes)
+points_tag(tag)
 
 folium_static(carte_personnes) 
