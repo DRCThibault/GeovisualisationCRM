@@ -88,7 +88,5 @@ for tag in liste_tags:
 
 folium_static(carte_personnes) 
 
-message = ''
 for tag in liste_tags:
-    message += tag + ':' +  str(dico_nb_tags[tag]) + '\n'
-    st.info(message)
+    st.write(tag, ':', dico_nb_tags[tag])
