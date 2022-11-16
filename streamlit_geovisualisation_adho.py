@@ -61,16 +61,17 @@ carte_personnes = folium.Map(location=[47,2],zoom_start=6)
 dico_nb_tags = {} #dictionnaire qui permet de comptabiliser les contacts dans chaque catégorie
 
 def couleur_tag():
-    r = lambda: random.randint(0,255)                 #genere une couleur aleatoire 
-    couleur_aleatoire ='#%02X%02X%02X' % (r(),r(),r())  #par tag
+    """genere une couleur aleatoire"""
+    r = lambda: random.randint(0,255)
+    couleur_aleatoire ='#%02X%02X%02X' % (r(),r(),r())
     return couleur_aleatoire
 
 def points_tag(tag):
-    """fonction qui ajoute sur la carte l'ensemble des contacts correspondant au tag"""
+    """ajoute sur la carte l'ensemble des contacts correspondant au tag"""
     couleur_du_tag = couleur_tag()
     df_points = df[df[tag]=='Oui']
     dico_nb_tags[tag] = df_points.shape[0]
-    groupes = MarkerCluster()
+    groupes = MarkerCluster()      #on clusterise les points
     for i in range(df_points.shape[0]):
         message = "<strong>" + df_points['first_name'].iloc[i] + ' ' + df_points['last_name'].iloc[i] + "</strong>"
         for j in range(df_points.shape[1]):
@@ -82,11 +83,12 @@ def points_tag(tag):
                                  radius = 5, 
                                  tooltip = message, 
                                  fill_color = couleur_du_tag, 
-                                 fill_opacity=0.5,
+                                 fill_opacity=1,
                                  color=None)
         groupes.add_child(mk)
         groupes.add_to(carte_personnes)
 
+#CUMULE LES POINTS DES TAGS SELECTIONNES
 for tag in liste_tags:
     points_tag(tag)
 
