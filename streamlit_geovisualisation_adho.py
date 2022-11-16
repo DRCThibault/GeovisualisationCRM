@@ -54,7 +54,7 @@ if choix_menu==parties_menu[3]:
 #CARTE DES PERSONNES INDIVIDUELLES
 st.title(choix_menu)
 
-liste_tags = st.multiselect("Indiquez les tags à visualiser :", options = liste_categorie)
+liste_tags = st.multiselect("Indiquez les tags à visualiser :", liste_categorie)
 
 carte_personnes = folium.Map(location=[47,2],zoom_start=6, tiles=None)
 
@@ -85,3 +85,5 @@ for tag in liste_tags:
     points_tag(tag)
 
 folium_static(carte_personnes) 
+
+st.write('You selected:', liste_tags)
