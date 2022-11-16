@@ -78,8 +78,11 @@ def points_tag(tag):
                 message += "<br>" + df_points.columns[j]
         latitude = df_points['Latitude'].iloc[i]
         longitude = df_points['Longitude'].iloc[i]
-        mk = folium.CircleMarker([latitude, longitude], radius = 5, tooltip = message, 
-                        color=None, fill_color =couleur_choisie, fill_opacity=1)
+        mk = folium.CircleMarker([latitude, longitude], 
+                                 radius = 5, 
+                                 tooltip = message, 
+                                 fill_color = couleur_du_tag, 
+                                 fill_opacity=0.5)
         groupes.add_child(mk)
         groupes.add_to(carte_personnes)
 
