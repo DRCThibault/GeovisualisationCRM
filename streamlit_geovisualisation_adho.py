@@ -90,3 +90,4 @@ folium_static(carte_personnes)
 
 for tag in liste_tags:
     st.write(tag, ':', dico_nb_tags[tag])
+st.write('TOTAL', ':', sum(list(dico_nb_tags.values())))
