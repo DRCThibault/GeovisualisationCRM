@@ -39,7 +39,17 @@ parties_menu = ["Centres d'intérêt",
                 "Pétitions",
                 "Meetings"]
 
-liste_categorie = st.sidebar.radio('', options=parties_menu)
+choix_menu = st.sidebar.radio('', options=parties_menu)
+
+if choix_menu==parties_menu[0]:
+    liste_categorie = liste_interet
+if choix_menu==parties_menu[1]:
+    liste_categorie = liste_donateur
+if choix_menu==parties_menu[2]:
+    liste_categorie = liste_petition
+if choix_menu==parties_menu[3]:
+    liste_categorie = liste_meeting
+
 
 #CARTE DES PERSONNES INDIVIDUELLES
 carte_personnes = folium.Map(location=[47,2],zoom_start=6, tiles=None)
