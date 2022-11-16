@@ -89,4 +89,4 @@ for tag in liste_tags:
 folium_static(carte_personnes) 
 
 for tag in liste_tags:
-    st.write(tag, ':', dico_nb_tags[tag])
+    st.info(tag, ':', dico_nb_tags[tag])
