@@ -52,11 +52,9 @@ if choix_menu==parties_menu[3]:
 
 
 #CARTE DES PERSONNES INDIVIDUELLES
-
 st.title(choix_menu)
-st.info("Indiquez le tag à visualiser")
 
-tag = st.selectbox("Choisissez un tag :", options = liste_categorie)
+tag = st.selectbox("Indiquez le tag à visualiser :", options = liste_categorie)
 
 carte_personnes = folium.Map(location=[47,2],zoom_start=6, tiles=None)
 
