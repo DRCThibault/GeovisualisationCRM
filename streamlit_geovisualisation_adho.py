@@ -6,7 +6,7 @@ from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 import random
 
-#IMPORT FICHIER CONTACTS
+#IMPORT FICHIER CONTACTS AVEC DE VRAIES ADRESSES GEOCODEES (EN ATTENDANT DE POUVOIR REQUETER DES CONTACTS REELS)
 df = pd.read_csv("Fichier_contacts_geocode.csv", sep=';')
 
 #LISTES DES CATEGORIES
@@ -31,6 +31,7 @@ liste_meeting = ['MeetingGrandMeetingDeLaRentree2022',
                  'MeetingManifestationContreLeauFroide',
                  'MeetingManifestationContreLeFeu']
 
+#BARRE DE MENU LATERALE
 st.sidebar.title("Catégories")
 st.sidebar.subheader("Menu")
 
@@ -50,23 +51,24 @@ if choix_menu==parties_menu[2]:
 if choix_menu==parties_menu[3]:
     liste_categorie = liste_meeting
 
-
 #CARTE DES PERSONNES INDIVIDUELLES
 st.title(choix_menu)
 
 liste_tags = st.multiselect("Indiquez les tags à visualiser :", liste_categorie)
 
-carte_personnes = folium.Map(location=[47,2],zoom_start=6, tiles=None)
+carte_personnes = folium.Map(location=[47,2],zoom_start=6)
 
-base_map = folium.FeatureGroup(name='Basemap', overlay=True, control=False)
-folium.TileLayer().add_to(base_map)
-base_map.add_to(carte_personnes)
+dico_nb_tags = {} #dictionnaire qui permet de comptabiliser les contacts dans chaque catégorie
 
-dico_nb_tags = {}
+def couleur_tag():
+    r = lambda: random.randint(0,255)                 #genere une couleur aleatoire 
+    couleur_aleatoire ='#%02X%02X%02X' % (r(),r(),r())  #par tag
+    return couleur_aleatoire
+
 def points_tag(tag):
-    r = lambda: random.randint(0,255)
-    couleur_choisie ='#%02X%02X%02X' % (r(),r(),r())
-    df_points = df[df[tag]=='Oui'] 
+    """fonction qui ajoute sur la carte l'ensemble des contacts correspondant au tag"""
+    couleur_du_tag = couleur_tag()
+    df_points = df[df[tag]=='Oui']
     dico_nb_tags[tag] = df_points.shape[0]
     groupes = MarkerCluster()
     for i in range(df_points.shape[0]):
@@ -74,10 +76,8 @@ def points_tag(tag):
         for j in range(df_points.shape[1]):
             if df_points.iloc[i,j]=='Oui':
                 message += "<br>" + df_points.columns[j]
-        
         latitude = df_points['Latitude'].iloc[i]
         longitude = df_points['Longitude'].iloc[i]
-
         mk = folium.CircleMarker([latitude, longitude], radius = 5, tooltip = message, 
                         color=None, fill_color =couleur_choisie, fill_opacity=1)
         groupes.add_child(mk)
@@ -88,6 +88,7 @@ for tag in liste_tags:
 
 folium_static(carte_personnes) 
 
+#AFFICHE LE NOMBRE DE CONTACTS DE CHAQUE TAG CHOISI ET LE TOTAL
 for tag in liste_tags:
     st.write(tag, ':', dico_nb_tags[tag])
 st.write('TOTAL', ':', sum(list(dico_nb_tags.values())))
