@@ -86,4 +86,5 @@ for tag in liste_tags:
 
 folium_static(carte_personnes) 
 
-st.write('You selected:', liste_tags)
+for i in len(liste_tags):
+    st.write(liste_tags[i], ':', len(liste_tags[i]))
