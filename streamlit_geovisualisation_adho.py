@@ -6,7 +6,7 @@ from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
 
 #IMPORT FICHIER CONTACTS
-df = pd.read_excel("Fichier_contacts_geocode.xlsx")
+df = pd.read_csv("Fichier_contacts_geocode.csv", sep=';')
 
 #LISTES DES CATEGORIES
 liste_interet = ['IntérêtDéfense',
@@ -37,6 +37,5 @@ parties_menu = ["Centres d'intérêt",
                 "Donateurs",
                 "Pétitions",
                 "Meetings"]
-
 
 liste_categorie = st.sidebar.radio('', options=parties_menu)
