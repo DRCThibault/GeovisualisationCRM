@@ -82,7 +82,8 @@ def points_tag(tag):
                                  radius = 5, 
                                  tooltip = message, 
                                  fill_color = couleur_du_tag, 
-                                 fill_opacity=0.5)
+                                 fill_opacity=0.5,
+                                 color=None)
         groupes.add_child(mk)
         groupes.add_to(carte_personnes)
 
