@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import folium
-from folium.plugins import MarkerCluster
+from folium.plugins import MarkerCluster, Draw
 from streamlit_folium import folium_static
 import random
 
@@ -92,6 +92,8 @@ def points_tag(tag):
 for tag in liste_tags:
     points_tag(tag)
 
+contour = Draw(export=True, filename='mon_polygone.geojson')
+    
 folium_static(carte_personnes) 
 
 #AFFICHE LE NOMBRE DE CONTACTS DE CHAQUE TAG CHOISI ET LE TOTAL
