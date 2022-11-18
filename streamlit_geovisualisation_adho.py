@@ -93,6 +93,7 @@ for tag in liste_tags:
     points_tag(tag)
 
 contour = Draw(export=True, filename='mon_polygone.geojson')
+contour.add_to(carte_personnes)
     
 folium_static(carte_personnes) 
 
